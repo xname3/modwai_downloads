@@ -1,0 +1,12 @@
+MODWAI - Proprietary Software License
+Copyright (c) 2025 Marek Jánošík. All rights reserved.
+
+This software and all associated materials are proprietary to the author.
+Unauthorized copying, modification, redistribution, or reverse engineering
+of this software, whether in source or binary form, is strictly prohibited.
+
+You may download and use this software only as permitted by Marek Jánošík
+and/or under a valid subscription or license agreement.
+
+For licensing or business inquiries, contact:
+janosik.m@icloud.com
